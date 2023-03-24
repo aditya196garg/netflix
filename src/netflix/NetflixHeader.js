@@ -14,5 +14,7 @@ export function NetflixHeader()
                 <button className="btn btn-danger">Signin</button>
              </div>
          </div>
+
+         
     )
     }
